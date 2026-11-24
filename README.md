@@ -1,3 +1,4 @@
+<img width="1283" height="862" alt="image" src="https://github.com/user-attachments/assets/db412773-2120-4a3c-89cd-9392f795393c" />
 # Django ORM Practical Exercise
 
 ## College Canteen – Food Order Tracker
@@ -14,7 +15,8 @@ Create a Django model named `FoodOrder` with the following fields:
 | -----: | ------------- | ------------ |
 |      1 | customer_name | CharField    |
 |      2 | food_item     | CharField    |
-|      3 | quantity      | IntegerField |
+|      3 | quantity      | IntegerField |<img width="1912" height="1052" alt="image" src="https://github.com/user-attachments/assets/413cd94e-6044-4180-b474-e2fdae7a6b67" />
+
 |      4 | price         | IntegerField |
 |      5 | is_delivered  | BooleanField |
 
